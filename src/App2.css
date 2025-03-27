@@ -1,0 +1,21 @@
+.App{
+    background-color: rgb(65, 93, 88);
+    border: 5px solid rgb(255, 225, 0);
+    border-style: inset;
+    padding: 2px;
+}
+
+body{
+    background-image: linear-gradient(to bottom right, rgb(77, 15, 246), rgb(111, 80, 249), rgb(251, 216, 112), rgb(163, 247, 163), rgb(6, 255, 6));
+}
+
+.info{
+    background-color: rgb(65, 93, 88);
+    border: 5px solid rgb(255, 225, 0);
+     
+}
+
+.hover:hover{
+    border: 5px solid rgba(255, 166, 0, 0.402);
+    border-style: inset;
+}
